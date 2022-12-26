@@ -8,6 +8,6 @@ Les acteurs de l'application sont de deux types :
 
 ## Installation
 - `git clone https://github.com/KhaoulaCode/Mini_Tweeter.git`
-- `cd Tweeter`
+- `cd MiniTweeter`
 - `composer update`
 
